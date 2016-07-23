@@ -9,6 +9,6 @@ $('button').click(function(){
   $('button2').click(function(){
   $('img').show();
   
-
+});
 });
 });
