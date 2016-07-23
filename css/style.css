@@ -3,7 +3,7 @@ selector {
 property: value;  
 }  
 */  
-header {
+header,footer {
   background:black;
   color:white;
   text-align: center;
@@ -11,10 +11,10 @@ header {
 }
 nav {
   line-height: 20px;
-  background: blue;
+  background: #cccccc;
   height: 600px;
   width: 120px;
-  float: right;
+  float: left;
   padding: 5px;
 }
 
@@ -25,10 +25,7 @@ section {
 }
 
 footer {
-  background: blue;
-  color: white;
   clear: both;
-  text-align: center;
   padding: 5px;
 }
 
