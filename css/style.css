@@ -51,7 +51,9 @@ img {
   width: 200px;
 }
 
-
+ul {
+     list-style: square inside url("/img/GnR.jpg");
+}
 
 footer {
   clear: both;
