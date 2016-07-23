@@ -3,8 +3,7 @@ selector {
 property: value;  
 }  
 */  
-
-body {
+header {
   background:blue;
   color:white;
   text-align: center;
