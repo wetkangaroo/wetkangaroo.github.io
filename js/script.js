@@ -5,6 +5,10 @@ $(document).ready(function(){
   });
 $('button').click(function(){
   $('img').hide();
+});
+  $('button2').click(function(){
+  $('img').show();
   
+
 });
 });
