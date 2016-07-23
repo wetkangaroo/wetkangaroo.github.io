@@ -51,6 +51,9 @@ img {
   width: 200px;
 }
 
+ul {
+  list-style-image: url('img/GnR-bullet.jpg');
+}
 
 
 footer {
