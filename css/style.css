@@ -24,10 +24,6 @@ section {
   padding: 15px;
 }
 
-footer {
-  clear: both;
-  padding: 5px;
-}
 
 a {
   color: green;
@@ -39,9 +35,15 @@ a:hover {
   
 }
 
-img {
+#circle_picture {
   border-radius: 100px;
   height: 200px;
   width: 200px;
 }
+
+footer {
+  clear: both;
+  padding: 5px;
+}
+
 
