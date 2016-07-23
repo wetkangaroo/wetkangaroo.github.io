@@ -4,11 +4,8 @@ $(document).ready(function(){
     $('header').css("background", "green");
   });
 $('button').click(function(){
-  $('img').hide();
-});
-  $('button2').click(function(){
-  $('img').show();
-  
-});
+  $('img').toggle();
+
+
 });
 });
