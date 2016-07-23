@@ -35,6 +35,10 @@ a:hover {
   
 }
 
+img {
+  height: 200px;
+  width: 200px;
+}
 #circle-picture {
   border-radius: 100px;
   height: 200px;
