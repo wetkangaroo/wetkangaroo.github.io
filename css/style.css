@@ -48,7 +48,7 @@ a:hover {
 }
 
 ul {
-  list-style-image: url('img/GnR.jpg');
+  list-style-type:square;
 }
 
 footer {
