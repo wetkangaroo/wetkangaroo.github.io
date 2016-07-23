@@ -3,12 +3,15 @@ selector {
 property: value;  
 }  
 */  
+
 header,footer {
   background:black;
   color:white;
   text-align: center;
   padding: 10px;
+  display:none;
 }
+
 nav {
   line-height: 20px;
   background: #cccccc;
@@ -24,7 +27,6 @@ section {
   padding: 15px;
 }
 
-
 a {
   color: green;
   text-decoration: none;
@@ -37,6 +39,7 @@ a:hover {
 img {
   height: 200px;
   width: 200px;
+  display: none;
 }
 
 ul {
