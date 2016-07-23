@@ -52,7 +52,13 @@ img {
 }
 
 ul {
-  list-style-type: square;
+
+  GnR.jpg {
+ background: url(‘/img/GnR.jpg’) no-repeat left top;
+ height: 54px;
+ padding-left: 44px;
+ padding-top: 3px;
+ } 
 }
 
 footer {
