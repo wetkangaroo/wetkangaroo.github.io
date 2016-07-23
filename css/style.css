@@ -52,7 +52,7 @@ img {
 }
 
 ul {
-     list-style: square inside url("/img/GnR.jpg");
+     list-style-image: square inside url("/img/GnR.jpg");
      Height: 20px;
      width:20px;
 }
