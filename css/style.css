@@ -41,6 +41,10 @@ a:hover {
   width: 200px;
 }
 
+ul {
+  list-style-image: url('img/GnR.jpg');
+}
+
 footer {
   clear: both;
   padding: 5px;
