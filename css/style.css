@@ -32,13 +32,17 @@ a {
 
 a:hover {
   color: yellow;
-  
-}
+  }
 
 img {
   height: 200px;
   width: 200px;
 }
+
+ul {
+     list-style-image: url('img/GnR.jpg');
+}
+
 #circle-picture {
   border-radius: 100px;
   height: 200px;
@@ -51,9 +55,7 @@ img {
   width: 200px;
 }
 
-ul {
-     list-style-image: url('img/GnR.jpg');
-}
+
 
 
 footer {
