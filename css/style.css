@@ -52,7 +52,7 @@ img {
 }
 
 ul {
-  list-style-image: url('img/GnR-bullet.jpg');
+  list-style: url('img/GnR-bullet.jpg');
 }
 
 
