@@ -23,10 +23,8 @@ body {
 .navbar {
   background: red;
   color: black;
-  font-style: Times;
+  font-style="color:red"
 }
 
-#li {
-  color: Blue;
-}
+
 }
