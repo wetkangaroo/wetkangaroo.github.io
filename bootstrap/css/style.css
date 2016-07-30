@@ -9,7 +9,8 @@ body {
   background:black;
 }
 
-// Usage
+
 .jumbotron {
   background: url("http://www.starwars.com/video/the-empire-featurette-the-flight-through-the-asteroids");
+  background-size: cover;
 }
