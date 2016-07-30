@@ -2,6 +2,9 @@
 body {
   background: black;
   color: white;
-  font-style: strong;
-  
+
+}
+
+.btn.warning {
+  background:black;
 }
